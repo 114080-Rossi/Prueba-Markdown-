@@ -12,10 +12,10 @@
 ### 1. Casilla
 
 #### Atributos
-    Número de Casilla
-    Tipo de Casilla
-    Propiedad (clase)
-    Estado de la casilla (comprada, disponible, etc)
+* Número de Casilla
+* Tipo de Casilla
+* Propiedad (clase)
+* Estado de la casilla (comprada, disponible, etc)
 #### Métodos
     Método Salida
     Método Impuesto
