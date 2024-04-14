@@ -17,18 +17,18 @@
 * Propiedad (clase)
 * Estado de la casilla (comprada, disponible, etc)
 #### Métodos
-    Método Salida
-    Método Impuesto
-    Método Premio Ganadero
-    Método Destino
-    Método Comisaría
-    Método Descanso
-    Método Free Parking
-    Método Marche Preso
-    Método Suerte
-    Método Zonas
-    Método Compañías
-    Método Ferrocarriles
+> Método Salida
+> Método Impuesto
+> Método Premio Ganadero
+> Método Destino
+> Método Comisaría
+> Método Descanso
+> Método Free Parking
+> Método Marche Preso
+> Método Suerte
+> Método Zonas
+> Método Compañías
+> Método Ferrocarriles
 #### Responsabilidades
 > Disparar el método de acción adecuado, en relación al tipo de casilla
 
