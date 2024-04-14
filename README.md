@@ -30,7 +30,7 @@
     Método Compañías
     Método Ferrocarriles
 #### Responsabilidades
-    Disparar el método de acción adecuado, en relación al tipo de casilla
+> Disparar el método de acción adecuado, en relación al tipo de casilla
 
 ---
 ### 2. Tablero
